@@ -1,0 +1,19 @@
+/* 
+  OrderInfo.json
+  Note_Wechat
+
+  Created by THN-Huangfei on 16/1/27.
+  Copyright © 2016年 Huangfei. All rights reserved.
+*/
+{
+    "data": {
+        "appid": "wxb4ba3c02aa476ea1",
+        "mch_id": "1305635501",
+        "nonce_str": "Csa915W15OmpjkcE",
+        "prepay_id": "wx20160127180438945e3aef9d0612863705",
+        "sign": "4110742E6AD26DCF465E7B6EB948B896",
+        "partner_id": "1305635501",
+        "key": "9E0530C588C8003395A929B0B94AC46B",
+        "time_stamp": 1453889079,
+    }
+}
